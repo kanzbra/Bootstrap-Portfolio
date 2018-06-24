@@ -1,0 +1,38 @@
+body html {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.backgroundimg {
+    background-image: url(assets/sharon-mccutcheon-576863-unsplash.jpg);
+    background-position: cover;
+    background-position:center center;
+    background-repeat: no-repeat;
+    height: 150vh;
+    width: 100%;
+}
+
+.box {
+    background: lavenderblush;
+    width: 100%;
+    padding: 90px;
+    padding-right: 80px;
+    padding-left: 60px;
+    
+}
+
+.project-title {
+	float: left;
+	position: relative;
+	top: -50px;
+	width: 115%;
+	height: 30px;
+	background-color:rgb(130, 97, 156);
+	color: #ffffff;
+	text-align: center;
+}
+
+
+
+    
